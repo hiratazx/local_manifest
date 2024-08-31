@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="hiratazx/vendor_lineage-priv_keys" path="vendor/lineage-priv/keys" revision="main" clone-depth="1" />
+  <project name="hiratazx/android_device_samsung_beyond0lte" path="device/samsung/beyond0lte" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" revision="lineage-21.0" clone-depth="1" />
+  <project name="hiratazx/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" revision="fourteen" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung" path="hardware/samsung" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_interfaces" path="hardware/samsung_slsi-linaro/interfaces" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_graphics" path="hardware/samsung_slsi-linaro/graphics" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_openmax" path="hardware/samsung_slsi-linaro/openmax" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos5" path="hardware/samsung_slsi-linaro/exynos5" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_config" path="hardware/samsung_slsi-linaro/config" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" revision="lineage-21.0" clone-depth="1" />
+  <project name="linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos" path="hardware/samsung_slsi-linaro/exynos" revision="lineage-21.0" clone-depth="1" />
+</manifest>
