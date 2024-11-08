@@ -25,5 +25,6 @@
     <project name="android_hardware_samsung_slsi-linaro_openmax"       path="hardware/samsung_slsi-linaro/openmax"    remote="dependencies"  revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_exynos5"       path="hardware/samsung_slsi-linaro/exynos5"    remote="dependencies"  revision="lineage-21.0" />
     <project name="android_hardware_samsung_slsi-linaro_interfaces"    path="hardware/samsung_slsi-linaro/interfaces" remote="dependencies"  revision="lineage-21.0" />
+    <project name="vendor_lineage-priv_keys"                           path="vendor/lineage-priv/keys"                remote="beyond0lte"      revision="main" />
     
 </manifest>
